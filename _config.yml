@@ -1,6 +1,6 @@
 # Site settings
-title:
-email:
+title: test1
+email: test2@test.cz
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,20 +9,20 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
-twitter_username:
-github_username:
+owner: test3
+email: test4@test.cz
+facebook_username: test5
+twitter_username: test6
+github_username: test7
 address:
-  - line:
-  - line:
-  # Feel free to add more lines here 
-telephone:
-copyright:
+  - line: Teplice
+  - line: Ústí nad Labem
+  # Feel free to add more lines here
+telephone: test8
+copyright: test9
 
 # API settings
-google_api_key:
+google_api_key: AIzaSyBKd89Nms8QCbzLLp3jL_2VGpdlXR1irac
 
 # Build settings
 markdown: kramdown
